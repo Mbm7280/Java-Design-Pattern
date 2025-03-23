@@ -1,4 +1,4 @@
-package com.echo.signleton.lazy;
+package com.echo.signleton;
 
 /****************************************************
  * 创建人：Echo
